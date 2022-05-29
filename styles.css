@@ -1,8 +1,0 @@
-body {
-    margin: 0;
-    background-color: hsl(0, 0%, 100%);
-    color: hsl(0, 0%, 10%);
-    line-height: 1.5;
-    font-family: 'Terminus', sans-serif;
-    src: url('/assets/fonts/Terminus/terminus.woff2') format('woff2')
-  }
